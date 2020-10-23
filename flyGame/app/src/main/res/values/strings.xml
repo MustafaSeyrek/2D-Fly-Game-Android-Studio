@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">flyGame</string>
+    <string name="slogan">I Have To Fly!</string>
+    <string name="highScore">High Score</string>
+    <string name="play">Play</string>
+</resources>
